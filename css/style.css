@@ -1,0 +1,43 @@
+*{ 
+    margin: 0;
+    padding: 0;
+}
+.header{ 
+    height: 60px;
+    background-color: blueviolet;
+    text-align: center;
+}
+.main_content{ overflow: hidden;
+
+}
+.left_content{
+    height: 350px;
+    width: 60%;
+    float: left;
+
+}
+.aside{
+    height: 350px;
+    width: 40%;
+    background-color: brown;
+    float: left;
+    text-align: center;
+   
+}
+.section{
+    height: 50%;
+    background-color: darkgreen;
+    text-align: center;
+
+}
+.nav{
+    height: 50%;
+    background-color: darkmagenta;
+    text-align: center;
+
+}
+.footer{
+    height: 35px;
+    background-color: mediumaquamarine;
+    text-align: center;
+}
